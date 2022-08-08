@@ -35,6 +35,14 @@ DevOps student at Saudi Digital Academy (SDA) and Coding Dojo.
 
 
 
+## Last Projects
+
+- Build and Deploy a Java-Maven Application from Jenkins.
+- Build and Deploy a .NET Application from Jenkins.
+- Create an AWS Event Bridge to Trigger a Lambda Function at a Scheduled Time.
+- ELK Stack Logstash, Elasticsearch and Kibana.
+- Deploy Jenkins application as a Docker container Dojo-jump on docker-swarm.
+
 ## Education
 
 Jazan University
