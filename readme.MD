@@ -1,6 +1,8 @@
+
+
 ---
 # Muhannad Sinan
-DevOps engineer
+**DevOps engineer**
 
 <div id="webaddress">
 <a href="mohanadsinan@hotmail.com">mohanadsinan@hotmail.com</a>
@@ -10,13 +12,26 @@ DevOps engineer
 
 ## Currently
 
-DevOps student at SDA and Coding Dojo
+DevOps student at Saudi Digital Academy (SDA) and Coding Dojo.
 
 
 
 ## Specialized in
 
-AWS Cloud, Linux, AWS cloud & services, SDLC, Iac, git, ansible, jenkins, monitoring, docker , k8s, DevSecOps, build tools, distributed systems
+- AWS Cloud
+- Linux
+- AWS cloud & services
+- SDLC
+- IaC
+- Git
+- Ansible
+- Jenkins
+- Monitoring
+- Docker
+- K8S
+- DevSecOps
+- Build tools
+- Distributed systems
 
 
 
@@ -26,4 +41,4 @@ Jazan University
 
 
 
-<!-- Last updated: June 2022 -->
+<!-- Last updated: Aug 2022 -->
